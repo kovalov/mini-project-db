@@ -1,16 +1,21 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "first": "anna",
+      "last": "banana",
+      "dob": "2022-11-29",
+      "email": "banana@mail.com",
+      "tel": "",
+      "phone": "12345"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "first": "bob",
+      "last": "burger",
+      "dob": "2022-12-07",
+      "email": "burger@mail.com",
+      "phone": "12"
     }
   ]
 }
